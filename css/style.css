@@ -1,0 +1,52 @@
+/* selettore{
+  proprietà: valore
+} */
+
+
+
+
+body{
+  background: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#logo {
+  height: 80px;
+  display: inline-block;
+
+}
+
+#nomegmail {
+  display: inline-block;
+  color: white;
+  font-family:sans-serif;
+}
+
+#nonletto {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 1%;
+
+}
+
+
+#number{
+  background-color: orange;
+  border-radius: 50%;
+  padding: 2px;
+}
+
+#mails div{
+  background-color: #b1b1b1;
+  border-bottom: 2px solid black;
+
+}
+
+
+
+footer div{
+  color: white;
+  text-align: center;
+}
